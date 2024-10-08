@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets/css/style.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"style.a11e3109.css","sourceRoot":"../src","sourcesContent":["body {\n  font-family: sans-serif;\n  background: pink;\n}\n\nh1 {\n  color: red;\n}\n"]}
