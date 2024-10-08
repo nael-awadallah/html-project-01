@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
 * {
   box-sizing: border-box;
 }
@@ -44,6 +45,7 @@ nav {
   letter-spacing: normal;
   color: #fff;
 }
+
 .navlink--current {
   background-color: black;
   color: white;
@@ -70,6 +72,7 @@ footer {
   background-color: #efefef;
   padding: 1em;
 }
+
 .header-fixed {
   display: flex;
   width: 100%;
@@ -79,6 +82,7 @@ footer {
   padding: 35px 130px 83px 130px;
   background-color: #74c69d;
 }
+
 .hero {
   background-color: #74c69d;
   min-height: 100vh;
@@ -88,9 +92,11 @@ footer {
   justify-content: space-between;
   padding: 0 135px;
 }
+
 .hero__content {
   max-width: 416px;
 }
+
 .hero__content h1 {
   font-family: 'Crimson Text', serif;
 
@@ -104,6 +110,7 @@ footer {
   color: #fff;
   margin: 0;
 }
+
 .hero__content h6 {
   font-size: 16px;
   font-weight: bold;
@@ -114,6 +121,7 @@ footer {
   margin: 0;
   color: #fff;
 }
+
 .hero__content p {
   max-width: 416px;
 
@@ -126,6 +134,7 @@ footer {
   text-align: left;
   color: rgba(255, 255, 255, 0.75);
 }
+
 .hero__content button {
   display: block;
   padding: 13px 48.5px 10px 47.5px;
